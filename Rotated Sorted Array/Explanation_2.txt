@@ -1,3 +1,5 @@
-I implemented a search algorithm in a rotated sorted array in this problem. I did this by finding the pivot from where the array is rotated and afterwards, I implemented the binary search.
+I implemented a search algorithm in a rotated sorted array in this problem. 
+I did this by finding the pivot from where the array is rotated and afterwards.
+I implemented the binary search.
 
 The time complexity is O(log(n)) and the space complexity is O(1)
