@@ -1,3 +1,3 @@
- I was required to implement a search algorithm to find the square root of a number. If the square is between the mid_val and (mid_val + 1), then the mid_val is returned as a floored square root.
-
+ I was required to implement a search algorithm to find the square root of a number. 
+ If the square is between the mid_val and (mid_val + 1), then the mid_val is returned as a floored square root.
  The time complexity in this case is O(log(n)) and the space complexity is O(1).
