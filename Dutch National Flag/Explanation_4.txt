@@ -1,0 +1,2 @@
+The solution to this problem only 0,1, and 2 of an array. First the frequency of occurences for every number was calculated in order to complete the algorithm in linear time. The frequencies were then used to update the input list to the sorted numbers.
+Based on this, the time complexity is O(n) whereas the space complexity is O(3) which can be simplified as O(1) as a constant. 
