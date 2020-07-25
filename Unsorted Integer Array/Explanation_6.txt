@@ -1,0 +1,4 @@
+In this problem, I was asked to find the minimum and maximum number in an unsorted array. First, I wrote an algorithm to find the maximum and minimum number and return a tuple of the min and max numbers.
+I created a list containing min possible numbers in python for finding the maximum nuber in the list and vice versa. Then after, I iterated through the list of numbers and compared them to find the minimum and maximum numbers.
+
+As a result, the time complexity becomes O(n) whereas the space complexity is a constant, O(1).
