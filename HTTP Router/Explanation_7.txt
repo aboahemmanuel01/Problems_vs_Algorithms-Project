@@ -1,2 +1,2 @@
-The solution to this problem takes n webpages and stores the same number (n) to the trie and so this is equivalent to a space complexity of O(n)
+The solution to this problem takes n webpages and stores the same number (n) to the trie and so this is equivalent to a space complexity of O(n).
 Lastly, the search algorithm for the path also checks the same number (n) of webpages and this results in a time complexity is O(n).
