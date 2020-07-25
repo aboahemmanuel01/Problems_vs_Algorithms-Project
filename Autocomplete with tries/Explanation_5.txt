@@ -1,7 +1,9 @@
-In this problem I made a class for the TrieNode which has the insert and suffixes method. This form of of implementation is similar to that of the tree structure.
+In this problem I made a class for the TrieNode which has the insert and suffixes method. 
+This form of of implementation is similar to that of the tree structure.
 The time complexity for the TrieNode to insert a character is O(1) and the space complexity for the TrieNode to insert a character is also O(1).
 
-Again, for the suffixes of a node; the time complexity is O(m^n) and the space complexity is O(m^n). Where n is the number of levels and m is the max number of elements that a level can have.
+Again, for the suffixes of a node; the time complexity is O(m^n) and the space complexity is O(m^n). 
+Where n is the number of levels and m is the max number of elements that a level can have.
 
 The time complexity to insert a word is O(n) whereas the space commplexity to insert a word is O(n).
 
