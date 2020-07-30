@@ -48,8 +48,6 @@ def rotated_array_search(input_list, number):
             first = pivot - 1
     return -1
 
-
-
 def linear_search(input_list, number):
     for index, element in enumerate(input_list):
         if element == number:
@@ -70,7 +68,6 @@ test_function([[6, 7, 8, 1, 2, 3, 4], 8])
 test_function([[6, 7, 8, 1, 2, 3, 4], 1])
 test_function([[1, 2, 3, 4, 6, 7, 8], 10])
 test_function([[6, 7, 8, 1, 2, 3, 4], 10])
-
 
 # Edge cases
 test_function([[8], -1])
